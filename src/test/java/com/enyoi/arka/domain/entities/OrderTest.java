@@ -4,7 +4,7 @@ package com.enyoi.arka.domain.entities;
 // import com.enyoi.arka.domain.valueobjects.Money;
 // import com.enyoi.arka.domain.valueobjects.OrderId;
 // import com.enyoi.arka.domain.valueobjects.ProductId;
-// import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
 
